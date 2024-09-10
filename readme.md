@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **Jameslikelywood@gmail.com / tiany58@McMaster.ca**
 
+- I am actively seeking a 2025 new graduate software developer position. With two prior work experiences, I am passionate about contributing my skills and knowledge to drive success at your company 🤝
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yuxiao-tian-63919120a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuxiao-tian-63919120a/" height="30" width="40" /></a>
