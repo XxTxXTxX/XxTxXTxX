@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxtxxtxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxtxxtxx" /> </p>
 
-- 🔭 I’m currently working on **Capstone Project**
+- 🔭 I’m currently working on **Protein Structure Prediction**
 
 - 🌱 I’m currently learning **React, Django, C#**
 
